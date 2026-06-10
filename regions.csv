@@ -1,0 +1,7 @@
+region_id,region_name,city,avg_income_index
+R01,Kadikoy,Istanbul,126.4
+R02,Besiktas,Istanbul,106.3
+R03,Sisli,Istanbul,131.5
+R04,Uskudar,Istanbul,121.8
+R05,Bakirkoy,Istanbul,85.7
+R06,Maltepe,Istanbul,138.5
